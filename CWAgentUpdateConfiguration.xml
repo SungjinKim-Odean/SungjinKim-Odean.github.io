@@ -1,24 +1,24 @@
 <Configuration>
 	<Version>0.8.13.0</Version>
 	<UpdateFiles>		
-		<UpdateFile>v0.8.13/AutoUpdater.NET.dll</UpdateFile>		
-		<UpdateFile>v0.8.13/CounterWatchAgent.exe</UpdateFile>						
-		<UpdateFile>v0.8.13/GraphQL.Client.Abstractions.dll</UpdateFile>
-		<UpdateFile>v0.8.13/GraphQL.Client.Abstractions.Websocket.dll</UpdateFile>
-		<UpdateFile>v0.8.13/GraphQL.Client.dll</UpdateFile>
-		<UpdateFile>v0.8.13/GraphQL.Client.Serializer.Newtonsoft.dll</UpdateFile>
-		<UpdateFile>v0.8.13/GraphQL.Primitives.dll</UpdateFile>
-		<UpdateFile>v0.8.13/Interop.UIAutomationClient.dll</UpdateFile>
-		<UpdateFile>v0.8.13/log4net.config</UpdateFile>
-		<UpdateFile>v0.8.13/log4net.dll</UpdateFile>
-		<UpdateFile>v0.8.13/M2Mqtt.Net.dll</UpdateFile>
-		<UpdateFile>v0.8.13/Microsoft.Win32.Primitives.dll</UpdateFile>
-		<UpdateFile>v0.8.13/netfx.force.conflicts.dll</UpdateFile>
-		<UpdateFile>v0.8.13/netstandard.dll</UpdateFile>
-		<UpdateFile>v0.8.13/Newtonsoft.Json.dll</UpdateFile>
-		<UpdateFile>v0.8.13/PacketDotNet.dll</UpdateFile>
-		<UpdateFile>v0.8.13/pc_data_lib.dll</UpdateFile>
-		<UpdateFile>v0.8.13/SharpPcap.dll</UpdateFile>
+		<UpdateFile>v0.8.13.0/AutoUpdater.NET.dll</UpdateFile>		
+		<UpdateFile>v0.8.13.0/CounterWatchAgent.exe</UpdateFile>						
+		<UpdateFile>v0.8.13.0/GraphQL.Client.Abstractions.dll</UpdateFile>
+		<UpdateFile>v0.8.13.0/GraphQL.Client.Abstractions.Websocket.dll</UpdateFile>
+		<UpdateFile>v0.8.13.0/GraphQL.Client.dll</UpdateFile>
+		<UpdateFile>v0.8.13.0/GraphQL.Client.Serializer.Newtonsoft.dll</UpdateFile>
+		<UpdateFile>v0.8.13.0/GraphQL.Primitives.dll</UpdateFile>
+		<UpdateFile>v0.8.13.0/Interop.UIAutomationClient.dll</UpdateFile>
+		<UpdateFile>v0.8.13.0/log4net.config</UpdateFile>
+		<UpdateFile>v0.8.13.0/log4net.dll</UpdateFile>
+		<UpdateFile>v0.8.13.0/M2Mqtt.Net.dll</UpdateFile>
+		<UpdateFile>v0.8.13.0/Microsoft.Win32.Primitives.dll</UpdateFile>
+		<UpdateFile>v0.8.13.0/netfx.force.conflicts.dll</UpdateFile>
+		<UpdateFile>v0.8.13.0/netstandard.dll</UpdateFile>
+		<UpdateFile>v0.8.13.0/Newtonsoft.Json.dll</UpdateFile>
+		<UpdateFile>v0.8.13.0/PacketDotNet.dll</UpdateFile>
+		<UpdateFile>v0.8.13.0/pc_data_lib.dll</UpdateFile>
+		<UpdateFile>v0.8.13.0/SharpPcap.dll</UpdateFile>
 	</UpdateFiles>
 	<RemoveFiles>		
 	</RemoveFiles>
