@@ -1,10 +1,8 @@
 <Configuration>
 	<Version>0.8.13.0</Version>
 	<UpdateFiles>		
-		<UpdateFile>AutoUpdater.NET.dll</UpdateFile>
-		<UpdateFile>Counter Watch Agent.lnk</UpdateFile>
-		<UpdateFile>CounterWatchAgent.exe</UpdateFile>
-		<UpdateFile>CounterWatchAgent.exe.config</UpdateFile>
+		<UpdateFile>AutoUpdater.NET.dll</UpdateFile>		
+		<UpdateFile>CounterWatchAgent.exe</UpdateFile>		
 		<UpdateFile>DevExpress.BonusSkins.v19.2.dll</UpdateFile>
 		<UpdateFile>DevExpress.Data.v19.2.dll</UpdateFile>
 		<UpdateFile>DevExpress.Images.v19.2.dll</UpdateFile>
