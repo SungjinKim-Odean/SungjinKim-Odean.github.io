@@ -1,6 +1,6 @@
 <Configuration>
 	<Version>0.8.13.0</Version>
-	<UpdateDirectory>cw-release/v0.8.13.0</UpdateDirectory>
+	<UpdateDirectory>https://sungjinkim-odean.github.io/cw-release/v0.8.13.0</UpdateDirectory>
 	<UpdateFiles>		
 		<UpdateFile>AutoUpdater.NET.dll</UpdateFile>		
 		<UpdateFile>CounterWatchAgent.exe</UpdateFile>						
