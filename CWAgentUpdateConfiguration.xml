@@ -1,24 +1,25 @@
 <Configuration>
 	<Version>0.8.13.0</Version>
+	<UpdateDirectory>cw-release/v0.8.13.0</UpdateDirectory>
 	<UpdateFiles>		
-		<UpdateFile>v0.8.13.0/AutoUpdater.NET.dll</UpdateFile>		
-		<UpdateFile>v0.8.13.0/CounterWatchAgent.exe</UpdateFile>						
-		<UpdateFile>v0.8.13.0/GraphQL.Client.Abstractions.dll</UpdateFile>
-		<UpdateFile>v0.8.13.0/GraphQL.Client.Abstractions.Websocket.dll</UpdateFile>
-		<UpdateFile>v0.8.13.0/GraphQL.Client.dll</UpdateFile>
-		<UpdateFile>v0.8.13.0/GraphQL.Client.Serializer.Newtonsoft.dll</UpdateFile>
-		<UpdateFile>v0.8.13.0/GraphQL.Primitives.dll</UpdateFile>
-		<UpdateFile>v0.8.13.0/Interop.UIAutomationClient.dll</UpdateFile>
-		<UpdateFile>v0.8.13.0/log4net.config</UpdateFile>
-		<UpdateFile>v0.8.13.0/log4net.dll</UpdateFile>
-		<UpdateFile>v0.8.13.0/M2Mqtt.Net.dll</UpdateFile>
-		<UpdateFile>v0.8.13.0/Microsoft.Win32.Primitives.dll</UpdateFile>
-		<UpdateFile>v0.8.13.0/netfx.force.conflicts.dll</UpdateFile>
-		<UpdateFile>v0.8.13.0/netstandard.dll</UpdateFile>
-		<UpdateFile>v0.8.13.0/Newtonsoft.Json.dll</UpdateFile>
-		<UpdateFile>v0.8.13.0/PacketDotNet.dll</UpdateFile>
-		<UpdateFile>v0.8.13.0/pc_data_lib.dll</UpdateFile>
-		<UpdateFile>v0.8.13.0/SharpPcap.dll</UpdateFile>
+		<UpdateFile>AutoUpdater.NET.dll</UpdateFile>		
+		<UpdateFile>CounterWatchAgent.exe</UpdateFile>						
+		<UpdateFile>GraphQL.Client.Abstractions.dll</UpdateFile>
+		<UpdateFile>GraphQL.Client.Abstractions.Websocket.dll</UpdateFile>
+		<UpdateFile>GraphQL.Client.dll</UpdateFile>
+		<UpdateFile>GraphQL.Client.Serializer.Newtonsoft.dll</UpdateFile>
+		<UpdateFile>GraphQL.Primitives.dll</UpdateFile>
+		<UpdateFile>Interop.UIAutomationClient.dll</UpdateFile>
+		<UpdateFile>log4net.config</UpdateFile>
+		<UpdateFile>log4net.dll</UpdateFile>
+		<UpdateFile>M2Mqtt.Net.dll</UpdateFile>
+		<UpdateFile>Microsoft.Win32.Primitives.dll</UpdateFile>
+		<UpdateFile>netfx.force.conflicts.dll</UpdateFile>
+		<UpdateFile>netstandard.dll</UpdateFile>
+		<UpdateFile>Newtonsoft.Json.dll</UpdateFile>
+		<UpdateFile>PacketDotNet.dll</UpdateFile>
+		<UpdateFile>pc_data_lib.dll</UpdateFile>
+		<UpdateFile>SharpPcap.dll</UpdateFile>
 	</UpdateFiles>
 	<RemoveFiles>		
 	</RemoveFiles>
