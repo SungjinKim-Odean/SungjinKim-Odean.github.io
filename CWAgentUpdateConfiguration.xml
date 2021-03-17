@@ -3,6 +3,10 @@
 	<RunExe>CounterWatchAgent Setup.exe</RunExe>
 	<Mode>Install</Mode>
 	<UpdateFileRoot>https://sungjinkim-odean.github.io/cw-release/v0.8.13.0</UpdateFileRoot>
+	<Condition>
+		<Store>1,2,3,6</Store>
+		<Manager>getoSharp</Manager>
+	</Condition>
 	<UpdateFiles>				
 		<UpdateFile>CounterWatchAgent Setup.exe</UpdateFile>								
 	</UpdateFiles>
