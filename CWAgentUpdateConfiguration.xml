@@ -1,8 +1,9 @@
 <Configuration>
 	<Version>0.8.13.0</Version>
-	<UpdateDirectory>https://sungjinkim-odean.github.io/cw-release/v0.8.13.0</UpdateDirectory>
-	<UpdateFiles>		
-		<UpdateFile>AutoUpdater.NET.dll</UpdateFile>		
+	<RunExe>CounterWatchAgent.exe</RunExe>
+	<Mode>Copy</Mode>
+	<UpdateFileRoot>https://sungjinkim-odean.github.io/cw-release/v0.8.13.0</UpdateFileRoot>
+	<UpdateFiles>				
 		<UpdateFile>CounterWatchAgent.exe</UpdateFile>						
 		<UpdateFile>GraphQL.Client.Abstractions.dll</UpdateFile>
 		<UpdateFile>GraphQL.Client.Abstractions.Websocket.dll</UpdateFile>
