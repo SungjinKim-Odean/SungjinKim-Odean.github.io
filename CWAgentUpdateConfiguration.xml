@@ -1,26 +1,10 @@
 <Configuration>
 	<Version>0.8.13.0</Version>
-	<RunExe>CounterWatchAgent.exe</RunExe>
-	<Mode>Copy</Mode>
+	<RunExe>CounterWatchAgent Setup.exe</RunExe>
+	<Mode>Install</Mode>
 	<UpdateFileRoot>https://sungjinkim-odean.github.io/cw-release/v0.8.13.0</UpdateFileRoot>
 	<UpdateFiles>				
-		<UpdateFile>CounterWatchAgent.exe</UpdateFile>						
-		<UpdateFile>GraphQL.Client.Abstractions.dll</UpdateFile>
-		<UpdateFile>GraphQL.Client.Abstractions.Websocket.dll</UpdateFile>
-		<UpdateFile>GraphQL.Client.dll</UpdateFile>
-		<UpdateFile>GraphQL.Client.Serializer.Newtonsoft.dll</UpdateFile>
-		<UpdateFile>GraphQL.Primitives.dll</UpdateFile>
-		<UpdateFile>Interop.UIAutomationClient.dll</UpdateFile>
-		<UpdateFile>log4net.config</UpdateFile>
-		<UpdateFile>log4net.dll</UpdateFile>
-		<UpdateFile>M2Mqtt.Net.dll</UpdateFile>
-		<UpdateFile>Microsoft.Win32.Primitives.dll</UpdateFile>
-		<UpdateFile>netfx.force.conflicts.dll</UpdateFile>
-		<UpdateFile>netstandard.dll</UpdateFile>
-		<UpdateFile>Newtonsoft.Json.dll</UpdateFile>
-		<UpdateFile>PacketDotNet.dll</UpdateFile>
-		<UpdateFile>pc_data_lib.dll</UpdateFile>
-		<UpdateFile>SharpPcap.dll</UpdateFile>
+		<UpdateFile>CounterWatchAgent Setup.exe</UpdateFile>								
 	</UpdateFiles>
 	<RemoveFiles>		
 	</RemoveFiles>
