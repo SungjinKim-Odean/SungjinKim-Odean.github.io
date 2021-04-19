@@ -1,5 +1,5 @@
 <Configuration>
-	<Version>0.9.1.0</Version>
+	<Version>0.9.0.0</Version>
 	<RunExe>PCStoreManager v0.9.0.0 Setup.exe</RunExe>
 	<Mode>Install</Mode>
 	<UpdateFileRoot>https://sungjinkim-odean.github.io/PCStoreManager-release</UpdateFileRoot>
