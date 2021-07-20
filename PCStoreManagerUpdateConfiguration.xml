@@ -1,12 +1,12 @@
 <Configuration>
-	<Version>0.9.4.0</Version>
-	<RunExe>PCStoreManager v0.9.4.0 Setup.exe</RunExe>
+	<Version>0.9.5.0</Version>
+	<RunExe>PCStoreManager v0.9.5.0 Setup.exe</RunExe>
 	<Mode>Install</Mode>
 	<UpdateFileRoot>https://sungjinkim-odean.github.io/PCStoreManager-release</UpdateFileRoot>
 	<Condition>		
 	</Condition>
 	<UpdateFiles>				
-		<UpdateFile>PCStoreManager v0.9.4.0 Setup.exe</UpdateFile>								
+		<UpdateFile>PCStoreManager v0.9.5.0 Setup.exe</UpdateFile>								
 	</UpdateFiles>
 	<RemoveFiles>		
 	</RemoveFiles>
